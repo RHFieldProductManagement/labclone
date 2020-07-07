@@ -1,8 +1,8 @@
 ## Using this lab on Packet.Net
 
-Deploying this lab is easy on packet.net using their **3.xlarge.x86** instance size and your Red Hat subs. 
+Deploying this lab is easy on [Packet](https://www.packet.com/) using their **s3.xlarge.x86** instance size and your own Red Hat subs. 
 
-This size is available in all of their core DC's and contains the following specs:
+This size is available in many of their core DC's and contains the following specs:
 <center>
     <img src="images/packet-instance-size.png"/>
 </center>
