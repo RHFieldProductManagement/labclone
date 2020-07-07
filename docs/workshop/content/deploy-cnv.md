@@ -25,13 +25,19 @@ Make sure that the namespace it will be installed to is "**openshift-cnv**" - it
 
 Next we need to actually deploy all of the CNV components that this subscription provides. Select the "**Container-native virtualization**" link under the '**Name**' column, and you'll be presented with the following:
 
-<img  border="1" src="img/install-hco.png"/>
+<img  border="1" src="img/install-hco-1.png"/>
 
-From here, select '**Create Instance**' on the '**CNV Operator Deployment**' button; this will deploy all of the necessary components that are required to support OpenShift virtualisation. The next page will show you a yaml edit box - we can leave this as the defaults and select '**Create**' at the bottom. Whilst this does its thing, you can move to the '**Workloads**' --> '**Pods**' menu entry and watch it start all of its resources:
+From here, select the '**CNV Operator Deployment**' tab and then click the "Create HyperConverged Cluster" button; this will deploy all of the necessary components that are required to support OpenShift virtualisation. 
 
-<img  border="1" src="img/cnv-pods.png"/>
+<img  border="1" src="img/create-hco-cluster.png"/>
 
+The next page will show you a yaml edit box - we can leave this as the defaults and select '**Create**' at the bottom. 
 
+<img  border="1" src="img/create-hco-text.png"/>
+
+Whilst this does its thing, you can move to the '**Workloads**' --> '**Pods**' menu entry and watch it start all of its resources:
+
+<img  border="1" src="img/cnv-pods-1.png"/>
 
 You can also return to the 'terminal' tab in your hosted lab guide and watch via the CLI:
 
