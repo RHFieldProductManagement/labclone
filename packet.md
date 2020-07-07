@@ -95,7 +95,7 @@ Check out this repo
 # git clone https://github.com/RHFieldProductManagement/openshift-virt-labs.git
 ~~~
 
-# Remember to Delete your Packet instance when done!!!
+# Remember to Delete your Packet instance when done with all the lab content!!!
 
 <center>
     <img src="images/packet-delete.png"/>
