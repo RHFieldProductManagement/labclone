@@ -58,6 +58,11 @@ To run this course your baremetal machine needs to meet the following requiremen
 You can use a public bare metal server provider as long as they offer large enough instances and the ability to deploy Red Hat Enterprise Linux 8. The lab is entirely self-contained on the single host and does not have any specific networking or external requirements.
 
 #### Packet.Net
+
+<center>
+<img src="images/logo-packet-600.png" width="20%"/>
+</center>
+
 We have provided some [brief steps to use Packet.Net](https://github.com/RHFieldProductManagement/openshift-virt-labs/blob/master/packet.md) for this for your convenience.
 
 
