@@ -60,10 +60,18 @@ You can use a public bare metal server provider as long as they offer large enou
 #### Packet.Net
 
 <center>
-<img src="images/logo-packet-600.png" width="20%"/>
+<img src="images/logo-packet-600.png" width="20%" align="center"/>
 </center>
 
 We have provided some [brief steps to use Packet.Net](https://github.com/RHFieldProductManagement/openshift-virt-labs/blob/master/packet.md) for this for your convenience.
+
+Please note:
+
+* You will need your own Red Hat subs (employee work fine)
+* There is a cost to run a Packet server and you will need a valid credit card to run servers on their infrastructre.
+* Costs are between yourself and Packet; the lab authors are not able to manage or cover costs.
+* You should expect to use an instance that costs around USD1.85 per hour. Lab setup is about 1 hour and it can take a few hours to complete.
+* Don't forget to SHUT DOWN YOUR INSTANCE WHEN DONE.
 
 
 ### User Requirements
