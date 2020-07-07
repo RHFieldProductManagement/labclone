@@ -75,7 +75,7 @@ Prepare the intall script
 # vim install.sh
 ~~~
 
-### You need to set a few variables before deployment:
+You need to set a few variables before deployment:
 
 **SSH\_PUB\_BASTION** should be set to a local public key to allow passwordless logins. You can always just run `ssh-keygen` and set **SSH\_PUB\_BASTION=~/.ssh/id_rsa.pub**
 
