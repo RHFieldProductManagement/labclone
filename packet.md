@@ -101,6 +101,13 @@ Check out this repo
     <img src="images/packet-delete.png"/>
 </center>
 
+Packet also charges for RHEL and bandwidth. Here is an example of 8 hours of usage for one server (cnvlab) and less than an hour of a smaller instance:
+
+<center>
+    <img src="images/packet-sample-costs.png"/>
+</center>
+
+## Back to the lab setup!
 
 Now that your server is running on Packet it's time to go back to the next section of the [Lab Guide](https://github.com/RHFieldProductManagement/openshift-virt-labs#user-requirements)
 
