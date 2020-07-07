@@ -68,9 +68,9 @@ We have provided some [brief steps to use Packet.Net](https://github.com/RHField
 Please note:
 
 * You will need your own Red Hat subs (employee work fine)
-* There is a cost to run a Packet server and you will need a valid credit card to run servers on their infrastructre.
+* There is a cost to run a Packet server and you will need a valid credit card to run servers on their infrastructure.
 * Costs are between yourself and Packet; the lab authors are not able to manage or cover costs.
-* You should expect to use an instance that costs around USD1.85 per hour. Lab setup is about 1 hour and it can take a few hours to complete.
+* You should expect to use an instance that costs around USD1.85 per hour. Lab deployment is about 1 hour and it can take a few hours to complete the labs.
 * Don't forget to SHUT DOWN YOUR INSTANCE WHEN DONE.
 
 
