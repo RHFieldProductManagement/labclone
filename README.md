@@ -54,6 +54,12 @@ To run this course your baremetal machine needs to meet the following requiremen
 * Must have at least **128GB memory** - we've seen it work with 64GB+(large)swap but YMMV
 * Must have ~**200GB of SSD**/NVME storage space - it can work with spinning rust but YMMV
 
+### Using A Public Hosting Provider
+You can use a public bare metal server provider as long as they offer large enough instances and the ability to deploy Red Hat Enterprise Linux 8. The lab is entirely self-contained on the single host and does not have any specific networking or external requirements.
+
+#### Packet.Net
+We have provided some [brief steps to use Packet.Net](https://github.com/RHFieldProductManagement/openshift-virt-labs/packet.md) for this for your convenience.
+
 
 ### User Requirements
 
