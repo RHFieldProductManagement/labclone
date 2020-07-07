@@ -1,4 +1,4 @@
-## Using this lab on Packet.Net
+## Using this lab on Packet
 
 Deploying this lab is easy on [Packet](https://www.packet.com/) using their **s3.xlarge.x86** instance size and your own Red Hat subs. 
 
