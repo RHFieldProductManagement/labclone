@@ -63,7 +63,7 @@ You can use a public bare metal server provider as long as they offer large enou
 <img src="images/logo-packet-600.png" width="20%" align="center"/>
 </center>
 
-We have provided some [brief steps to use Packet.Net](https://github.com/RHFieldProductManagement/openshift-virt-labs/blob/master/packet.md) for this for your convenience.
+We have provided some [brief steps to use Packet.Net](https://github.com/RHFieldProductManagement/openshift-virt-labs/blob/master/packet.md) for your convenience. Use them to set up packet and then return back to the main lab guide.
 
 Please note:
 

@@ -95,23 +95,6 @@ Check out this repo
 # git clone https://github.com/RHFieldProductManagement/openshift-virt-labs.git
 ~~~
 
-Prepare the intall script
-
-~~~bash
-# cd openshift-virt-labs
-# vim install.sh
-~~~
-
-You need to set a few variables before deployment:
-
-**SSH\_PUB\_BASTION** should be set to a local public key to allow passwordless logins. You can always just run `ssh-keygen` and set **SSH\_PUB\_BASTION=~/.ssh/id_rsa.pub**
-
-**PULL_SECRET** needs to be set to your pull secret value as obtained from [https://cloud.redhat.com/openshift/install/metal/user-provisioned](https://cloud.redhat.com/openshift/install/metal/user-provisioned). Simply put the value between the single quote marks such that it looks like
-
-~~~bash
-PULL_SECRET='{"auths":{"cloud.openshift.com":{"auth":"b3BlbnNoaWZ0LXJlbGVhc2UtZGV2 ... XbFdWdw==","email":"user@redhat.com"}}}'
-~~~
-
 # Remember to Delete your Packet instance when done!!!
 
 <center>
@@ -119,7 +102,7 @@ PULL_SECRET='{"auths":{"cloud.openshift.com":{"auth":"b3BlbnNoaWZ0LXJlbGVhc2UtZG
 </center>
 
 
-Back to [Lab Guide](https://github.com/RHFieldProductManagement/openshift-virt-labs)
+Now that your server is running on Packet it's time to go back to the next section of the [Lab Guide](https://github.com/RHFieldProductManagement/openshift-virt-labs#user-requirements)
 
 
 
