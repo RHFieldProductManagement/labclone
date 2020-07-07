@@ -85,7 +85,12 @@ You need to set a few variables before deployment:
 PULL_SECRET='{"auths":{"cloud.openshift.com":{"auth":"b3BlbnNoaWZ0LXJlbGVhc2UtZGV2 ... XbFdWdw==","email":"user@redhat.com"}}}'
 ~~~
 
-# Remember to use tmux for the deployment process and to destroy your Packet instance when done!!!
+# Remember to Delete your Packet instance when done!!!
+
+<center>
+    <img src="images/packet-delete.png"/>
+</center>
+
 
 Back to [Lab Guide](https://github.com/RHFieldProductManagement/openshift-virt-labs)
 
